@@ -1,17 +1,10 @@
 # Hi there, I'm Jacob Badali 👋
 
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Jcub05?style=social)](https://github.com/Jcub05)
-  [![GitHub stars](https://img.shields.io/github/stars/Jcub05?style=social)](https://github.com/Jcub05)
-  
-</div>
-
 ## 🚀 About Me
 
-I'm a **Computer Engineering student** and **Software Engineer** passionate about pushing the boundaries of autonomous systems, machine learning, and building impactful software. Whether it's programming robots, training neural networks, or developing AI-powered applications, I love solving complex problems with elegant code.
+I'm a **Computer Engineering student** and **Software Engineer** passionate about full stack development, autonomous systems, machine learning, and building impactful software. Whether it's programming robots, training neural networks, or developing AI-powered applications, I love solving complex problems with elegant code.
 
-- 💼 **Part-time Software Engineer** at [OpenJusticeAI](https://github.com/OpenJusticeAI) / Conflict Analysis Lab
+- 💼 **Part-time Software Engineer** at [OpenJusticeAI]() / Conflict Analysis Lab
 - 🤖 Working on **autonomous mapping** and robotics with [aQuatonomous](https://github.com/aQuatonomous)
 - 🧠 Exploring **Machine Learning & Computer Vision** applications
 - ⚡ Experimenting with **CUDA** and parallel computing
@@ -39,7 +32,7 @@ Building AI-powered legal assistant technology with a focus on full-stack develo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks & Tools
@@ -48,16 +41,18 @@ Building AI-powered legal assistant technology with a focus on full-stack develo
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Specializations
-🤖 **Robotics & Autonomous Systems** • 🧠 **Machine Learning & Computer Vision** • ⚡ **Parallel Computing** • 🌐 **Full-Stack Development**
+🤖 **Robotics & Autonomous Systems** • 🧠 **Machine Learning & Computer Vision** • 🌐 **Full-Stack Development**
 
 </div>
 
 ## 🔥 Featured Projects
+
+### ⚖️ [OpenJustice](https://staging.openjustice.ai/login)
+AI-powered legal assistant platform built with TypeScript, React, NestJS, and PostgreSQL. Integrating LangChain and LLMs to make legal information more accessible.
 
 ### 🌍 [GreenGrid-Toronto-QEC-2025](https://github.com/Jcub05/GreenGrid-Toronto-QEC-2025)
 Python-based project for the Queen's Engineering Competition 2025, focused on sustainable solutions for Toronto.
@@ -101,12 +96,3 @@ I'm always excited to collaborate on interesting projects or discuss new ideas i
   
 </div>
 
----
-
-<div align="center">
-  
-  *"The best way to predict the future is to invent it."* - Alan Kay
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Jcub05&color=blueviolet&style=flat-square)
-  
-</div>
