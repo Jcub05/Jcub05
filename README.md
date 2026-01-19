@@ -67,19 +67,7 @@ Hands-on machine learning and computer vision labs exploring cutting-edge algori
 <div align="center">
   
   ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcub05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcub05&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jcub05&theme=tokyonight&hide_border=true)
 
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  ![Achievements](https://github-profile-trophy.vercel.app/?username=Jcub05&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-  
 </div>
 
 ## 📫 Let's Connect
@@ -89,8 +77,7 @@ I'm always excited to collaborate on interesting projects or discuss new ideas i
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-badali)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacob.badali@queensu.ca)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jcub05)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobbadali5@gmail.com)
   
 </div>
 
