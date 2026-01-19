@@ -4,11 +4,9 @@
 
 I'm a **Computer Engineering student** and **Software Engineer** passionate about full stack development, autonomous systems, machine learning, and building impactful software. Whether it's programming robots, training neural networks, or developing AI-powered applications, I love solving complex problems with elegant code.
 
-- 💼 **Part-time Software Engineer** at [OpenJusticeAI]() / Conflict Analysis Lab
+- 💼 **Part-time Software Engineer** at [OpenJusticeAI](https://staging.openjustice.ai/) / Conflict Analysis Lab
 - 🤖 Working on **autonomous mapping** and robotics with [aQuatonomous](https://github.com/aQuatonomous)
 - 🧠 Exploring **Machine Learning & Computer Vision** applications
-- ⚡ Experimenting with **CUDA** and parallel computing
-- 🌱 Building full-stack applications with modern web technologies
 - 🏆 Active participant in hackathons and engineering competitions
 
 ## 💼 Experience
