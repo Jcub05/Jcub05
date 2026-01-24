@@ -32,7 +32,7 @@ I'm a **Computer Engineering student** and **Software Engineer** passionate abou
 
 </div>
 
-## Projects I am proud of
+## Projects I am Proud of
 
 ### [OpenJustice](https://staging.openjustice.ai/login)
 AI-powered legal assistant platform built with TypeScript, React, NestJS, and PostgreSQL. Integrating LangChain and LLMs to make legal information more accessible.
