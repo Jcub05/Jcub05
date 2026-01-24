@@ -9,18 +9,6 @@ I'm a **Computer Engineering student** and **Software Engineer** passionate abou
 - 🧠 Exploring **Machine Learning & Computer Vision** applications
 - 🏆 Active participant in hackathons and engineering competitions
 
-## 💼 Experience
-
-### Software Engineer - Student Research
-**OpenJusticeAI / Deel Lab** • *Nov 2025 – Present* • Kingston, ON
-
-Building AI-powered legal assistant technology with a focus on full-stack development:
-
-- 🔧 Developing full-stack features using **TypeScript, React, NestJS** with **PostgreSQL** database
-- 🤖 Integrating **LangChain-based conversation systems** with **OpenAI/Anthropic APIs**
-- 🏗️ Implementing **RESTful API architecture** and frontend components
-- 🔄 Collaborating in **Agile environment** with Git workflows and code reviews
-
 
 ## 💻 Tech Stack
 
@@ -42,27 +30,24 @@ Building AI-powered legal assistant technology with a focus on full-stack develo
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Specializations
-🤖 **Robotics & Autonomous Systems** • 🧠 **Machine Learning & Computer Vision** • 🌐 **Full-Stack Development**
-
 </div>
 
-## 🔥 Featured Projects
+## Projects I am proud of
 
-### ⚖️ [OpenJustice](https://staging.openjustice.ai/login)
+### [OpenJustice](https://staging.openjustice.ai/login)
 AI-powered legal assistant platform built with TypeScript, React, NestJS, and PostgreSQL. Integrating LangChain and LLMs to make legal information more accessible.
 
-### 🌍 [GreenGrid-Toronto-QEC-2025](https://github.com/Jcub05/GreenGrid-Toronto-QEC-2025)
+### [GreenGrid-Toronto-QEC-2025](https://github.com/Jcub05/GreenGrid-Toronto-QEC-2025)
 Python-based project for the Queen's Engineering Competition 2025, focused on sustainable solutions for Toronto.
 
-### 🗺️ [mapping-25-26](https://github.com/aQuatonomous/mapping-25-26)
+### [mapping-25-26](https://github.com/aQuatonomous/mapping-25-26)
 Autonomous mapping system designed for integration into the 2025-26 autonomy stack. Building the future of unmanned navigation.
 
-### 🧪 [475_ML-CV_Labs](https://github.com/Jcub05/475_ML-CV_Labs)
+### [475_ML-CV_Labs](https://github.com/Jcub05/475_ML-CV_Labs)
 Hands-on machine learning and computer vision labs exploring cutting-edge algorithms and techniques.
 
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
   
@@ -70,7 +55,7 @@ Hands-on machine learning and computer vision labs exploring cutting-edge algori
 
 </div>
 
-## 📫 Let's Connect
+## Contact
 
 I'm always excited to collaborate on interesting projects or discuss new ideas in robotics, ML, and beyond!
 
