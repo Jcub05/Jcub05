@@ -4,10 +4,7 @@
 
 I'm a **Computer Engineering student** and **Software Engineer** passionate about full stack development, autonomous systems, machine learning, and building impactful software. Whether it's programming robots, training neural networks, or developing AI-powered applications, I love solving complex problems with elegant code.
 
--  **Full-time Software Engineer** at [OpenJusticeAI](https://staging.openjustice.ai/) / Conflict Analysis Lab
--  Worked on **autonomous mapping** and robotics with [aQuatonomous](https://github.com/aQuatonomous)
-
-
+-  **Software Engineer** at [OpenJusticeAI](https://staging.openjustice.ai/) / Conflict Analysis Lab
 
 ## 💻 Tech Stack
 
@@ -31,32 +28,9 @@ I'm a **Computer Engineering student** and **Software Engineer** passionate abou
 
 </div>
 
-## Projects I am Proud of
-
-### [OpenJustice](https://staging.openjustice.ai/login)
-AI-powered legal assistant platform built with TypeScript, React, NestJS, and PostgreSQL. Integrating LangChain and LLMs to make legal information more accessible.
-
-### [GreenGrid-Toronto-QEC-2025](https://github.com/Jcub05/GreenGrid-Toronto-QEC-2025)
-Python-based project for the Queen's Engineering Competition 2025, focused on sustainable solutions for Toronto.
-
-### [mapping-25-26](https://github.com/aQuatonomous/mapping-25-26)
-Autonomous mapping system designed for integration into the 2025-26 autonomy stack. Building the future of unmanned navigation.
-
-### [475_ML-CV_Labs](https://github.com/Jcub05/475_ML-CV_Labs)
-Hands-on machine learning and computer vision labs exploring cutting-edge algorithms and techniques.
-
-
-## Stats
-
-<div align="center">
-  
-  ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcub05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
 ## Contact
 
-I'm always excited to collaborate on interesting projects or discuss new ideas in robotics, ML, and beyond!
+Always looking to connect with like-minded people, shoot me an email or message!
 
 <div align="center">
   
