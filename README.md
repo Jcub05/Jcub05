@@ -4,7 +4,7 @@
 
 I'm a **Computer Engineer** passionate about full stack development, autonomous systems, machine learning, and building impactful software. Whether it's programming robots, training neural networks, or developing AI-powered applications, I love solving complex problems with elegant code.
 
--  **Software Engineer** at [OpenJusticeAI](https://staging.openjustice.ai/) / Conflict Analysis Lab
+-  **Software Engineer** at [OpenJusticeAI](https://openjustice.ai/) / Conflict Analytics Lab
 
 ## 💻 Tech Stack
 
